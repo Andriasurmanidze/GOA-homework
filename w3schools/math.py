@@ -20,4 +20,18 @@ print(e)
 
 #კოდში გაყოფის ნიშანი არის დახრილი ხაძი ანუ ეს/
 
+import math
+
+x = math.sqrt(100)
+print(x)
+
+
+l = abs(-7.25)
+
+print(l)
+
+p = pow(4, 5)
+
+print(p)
+
 
